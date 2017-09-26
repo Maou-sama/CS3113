@@ -1,3 +1,8 @@
+/*
+Name: Minh Cong Ho
+netID: mch505
+*/
+
 #ifdef _WINDOWS
 	#include <GL/glew.h>
 #endif
