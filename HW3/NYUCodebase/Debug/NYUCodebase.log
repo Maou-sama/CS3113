@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(173): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(175): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(178): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(180): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(183): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(185): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(193): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(196): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(198): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(201): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(203): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(231): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(237): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\asus\documents\cs3113\hw3\nyucodebase\main.cpp(239): warning C4305: 'argument': truncation from 'double' to 'float'
+  NYUCodebase.vcxproj -> C:\Users\asus\Documents\CS3113\HW3\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\asus\Documents\CS3113\HW3\Debug\NYUCodebase.pdb (Partial PDB)
