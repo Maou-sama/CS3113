@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\asus\documents\cs3113\hw5\nyucodebase\nyucodebase\main.cpp(174): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\asus\documents\cs3113\hw5\nyucodebase\nyucodebase\main.cpp(182): warning C4018: '<': signed/unsigned mismatch
+  NYUCodebase.vcxproj -> C:\Users\asus\Documents\CS3113\HW5\NYUCodebase\Debug\NYUCodebase.exe
